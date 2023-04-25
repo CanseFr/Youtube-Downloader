@@ -167,7 +167,7 @@ def downloadS_audioS():
 
 
 
-#fonction a fair 
-#information d un flux 
-# telecharger audio 
-# telecharger video 
+#TODO:
+#information d'un flux 
+# telechargement playlist audio 
+# telecharger playlist video 
